@@ -37,7 +37,7 @@ Com base nos dados obtidos, selecione uma prática ou dado de teste relevante e 
 
 ## Respostas
 
-**1. Repositório selecionado:** `[<URL_DO_REPOSITÓRIO_AQUI>](https://github.com/hectorcanto/pytest-samples)`
+**1. Repositório selecionado:** `(https://github.com/hectorcanto/pytest-samples)`
 
 **2. Explicação:** `Os dados do TestMiner mostram um panorama geral da qualidade e da organização dos testes dentro de um repositório. Nesse caso, o projeto possui 8 arquivos de código fonte e 9 arquivos de teste, o que indica uma boa cobertura, já que há praticamente um arquivo de teste para cada parte relevante do sistema. Além disso, existem 6 arquivos classificados como test helpers, que são utilitários usados para evitar repetição de código nos testes, e 1 arquivo de mock, utilizado para simular dependências externas, como APIs ou bancos de dados. Também aparecem 3 testes do tipo smoke, que são testes simples e rápidos usados para verificar se o sistema está funcionando minimamente antes de executar testes mais complexos.
 
